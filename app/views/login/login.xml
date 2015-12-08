@@ -1,0 +1,5 @@
+<Page navigatedTo="loaded">
+  <StackLayout orientation="vertical">
+    <TextView text="{{ helloWorld }}" isEditable="false" />
+  </StackLayout>
+</Page>
